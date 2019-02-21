@@ -1,2 +1,2 @@
 # givres
-Logijazz
+Artist transfert Bdd 
