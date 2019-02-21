@@ -1,0 +1,9 @@
+*.pyc
+*~
+db.sqlite3
+*#
+media/
+kart/site_settings.py
+.cache/
+.coverage
+.tox
